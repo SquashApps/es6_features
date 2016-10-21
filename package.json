@@ -1,0 +1,24 @@
+{
+  "name": "es6_features",
+  "version": "1.0.0",
+  "description": "ES6 Features",
+  "main": "iterator.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SquashApps/es6_features.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SquashApps/es6_features/issues"
+  },
+  "homepage": "https://github.com/SquashApps/es6_features#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6"
+  }
+}
