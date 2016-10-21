@@ -1,0 +1,5 @@
+dump.rdb
+*.idea
+coverage/*
+node_modules/*
+.orig
